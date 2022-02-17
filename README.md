@@ -1,4 +1,4 @@
-## <h1 align="center">Olá! Sou o Anderson Barbosa 🧑🏻‍💻</h1>
+<h1 align="center">Olá! Sou o Anderson Barbosa 🧑🏻‍💻</h1>
 
 - 🌱 Estudando Front-End
 
