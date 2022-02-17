@@ -1,6 +1,5 @@
 ## <h1 align="center">Olá! Sou o Anderson Barbosa 🧑🏻‍💻</h1>
 
-- 🔭 Hoje estudo Front-end
 - 🌱 Estudando Front-End
 
 ##
